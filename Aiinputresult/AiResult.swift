@@ -22,4 +22,3 @@ struct AiResult: Codable, Identifiable {
     }
 }
 
-//>>>>>>> a65ad09 (完成了代码修改并添加了配置文件)
