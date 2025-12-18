@@ -21,3 +21,5 @@ struct AiResult: Codable, Identifiable {
         return id ?? UUID().uuidString // 如果 id 是空的，临时生成一个防止表格错乱
     }
 }
+
+//>>>>>>> a65ad09 (完成了代码修改并添加了配置文件)
